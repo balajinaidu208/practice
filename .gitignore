@@ -1,5 +1,7 @@
 *.py
 *.net
+*.python
+
 
 
 !fifth.net
